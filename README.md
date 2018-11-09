@@ -1,6 +1,6 @@
 # PS4-Syscall-9
 
-# Right its released for 5.05 ONLY
+# 5.05 ONLY
 
 ## Read
 
