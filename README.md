@@ -1,5 +1,7 @@
 # PS4-Syscall-9
 
+# Right its released for 5.05 ONLY
+
 ## Read
 
 OrbisMAN Beta 2, Installs this automatically so you DO NOT need this if you plan on launching the HB Toolbox every Boot
